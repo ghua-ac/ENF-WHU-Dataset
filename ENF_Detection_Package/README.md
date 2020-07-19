@@ -1,4 +1,4 @@
-# Electric Network Frequency Detection from Audio Recordings
+# Electric Network Frequency Detection in Audio Recordings
 
 This package contains the MATLAB program for electric network frequency detection in audio recordings for audio forensic analysis (verified on MATLAB 2016b), including codes to reproduce figures showing the results of the [paper](https://ieeexplore.ieee.org/document/9143185).
 
