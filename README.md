@@ -12,11 +12,11 @@ This GitHub link contains the ENF-WHU audio recording dataset collected around W
 - **Channel:** mono
 - **Sampling frequencuy:** 8000 Hz
 - **Category:**
-  - **H0:** "O01\~O10.wav" 10 real-world recordings without captured ENF. "01\~40.wav" 40 segments under H0 are obtained by random cropping the 10 recordings. 
-  - **H1:** "001~130.wav" 130 real-world recordings with captured (noisy) ENF.
-  - **H1_ref:** "001_ref~130_ref.wav" the corresponding 130 reference ENF (noise-free) obtained from power main.
+ - **H0:** "O01\~O10.wav" 10 real-world recordings without captured ENF. "01\~40.wav" 40 segments under H0 are obtained by random cropping the 10 recordings. 
+ - **H1:** "001~130.wav" 130 real-world recordings with captured (noisy) ENF.
+ - **H1_ref:** "001_ref~130_ref.wav" the corresponding 130 reference ENF (noise-free) obtained from power main.
 
-# Citation Information
+## Citation Information
 
 
 
