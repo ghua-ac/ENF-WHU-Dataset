@@ -4,7 +4,7 @@ This GitHub link contains the ENF-WHU audio recording dataset collected around W
 
 ## ENF-WHU Dataset
 - **Recording location:** classroom, campus path, meeting room, graduate student office, dormitory, library.
-- **Environment diversity:** day/night, rainy/suny.
+- **Environment diversity:** day/night, rainy/suny, interior/exterior.
 - **Recording device:** popular smartphone and voice recorder.
 - **Duration:** 5~20 minutes
 - **Format:** PCM WAVE
