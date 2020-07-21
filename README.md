@@ -16,4 +16,10 @@ This GitHub link contains the ENF-WHU audio recording dataset collected around W
   - **H1:** "001~130.wav" 130 real-world recordings with captured (noisy) ENF.
   - **H1_ref:** "001_ref~130_ref.wav" the corresponding 130 reference ENF (noise-free) obtained from power main.
 
+# Citation Information
 
+
+
+## MATLAB Programs
+- ENF Detection
+- ENF Enhancement
