@@ -18,7 +18,13 @@ This GitHub link contains the ENF-WHU audio recording dataset collected around W
 
 ## MATLAB Programs
 ### ENF Detection
-- ENF Enhancement
+- Clairvoyant Detector: NP detectors assuming perfect knowledge of the ENF
+ 1. Generalized matched filter (GMF)
+ 2. Matched filter (MF)-like approximation
+ 3. Asymptotic Approximation
+
+
+### ENF Enhancement
 
 ## Citation Information
 - **ENF Detection:**
