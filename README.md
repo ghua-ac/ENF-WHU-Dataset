@@ -18,10 +18,10 @@ This GitHub link contains the ENF-WHU audio recording dataset collected around W
 
 ## MATLAB Programs
 ### ENF Detection
-- Clairvoyant Detector: NP detectors assuming perfect knowledge of the ENF
- 1. Generalized matched filter (GMF)
- 2. Matched filter (MF)-like approximation
- 3. Asymptotic Approximation
+- Clairvoyant Detector: Neyman-Pearson (NP) detectors assuming perfect knowledge of the ENF.
+  1. Generalized matched filter (GMF), a standard NP detector.
+  2. Matched filter (MF)-like approximation (avoid the requirement of unknown noise covariance matrix).
+  3. Asymptotic approximation (trade-off between computational complexity and detection performance).
 
 
 ### ENF Enhancement
