@@ -17,7 +17,7 @@ This GitHub link contains the ENF-WHU audio recording dataset collected around W
   **H0:** "O01\~O10.wav" 10 real-world recordings without captured ENF. "01\~40.wav" 40 segments under H0 obtained by random cropping the 10 recordings.
 
 ## MATLAB Programs
-- ENF Detection
+### ENF Detection
 - ENF Enhancement
 
 ## Citation Information
