@@ -16,6 +16,10 @@ This GitHub link contains the ENF-WHU audio recording dataset collected around W
   2. **H1:** "001~130.wav" 130 real-world recordings with captured (noisy) ENF.
   3. **H1_ref:** "001_ref~130_ref.wav" the corresponding 130 reference ENF (noise-free) obtained from power main.
 
+## MATLAB Programs
+- ENF Detection
+- ENF Enhancement
+
 ## Citation Information
 - **ENF Detection:**
  > \[1] G. Hua, H. Liao, Q. Wang, H. Zhang, and D. Ye, "Detection of electric network frequency in audio recordings – From theory to practical detectors," IEEE Trans. Inf. Forensics Security, DOI: 10.1109/TIFS.2020.3009579, 2020.
@@ -31,6 +35,4 @@ This GitHub link contains the ENF-WHU audio recording dataset collected around W
  
  > \[6] G. Hua, J. Goh, and V. L. L. Thing, “A dynamic matching algorithm for audio timestamp identification using the ENF criterion,” IEEE Trans. Inf. Forensics Security, vol. 9, no. 7, pp. 1045-1055, Jul. 2014. 
 
-## MATLAB Programs
-- ENF Detection
-- ENF Enhancement
+
