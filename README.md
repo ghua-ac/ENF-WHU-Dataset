@@ -30,8 +30,7 @@ This GitHub link contains the ENF-WHU audio recording dataset collected around W
 3. Time-frequency (TF) domain detector
 	- Frame-based processing
 	- Test statistic is the sample variance of the strongest time-frequency line (e.g., STFT + peak)
-	- Leveraging the slow-varying nature of the ENF, test statistic is large under null hypothesis H0 and small under alternative hypothesis H1. 
-
+	- Exploiting slow-varying nature of ENF, thus test statistic is large under H0 and small undder H1. 
 
 ### ENF Enhancement
 
