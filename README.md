@@ -18,16 +18,16 @@ This GitHub link contains the ENF-WHU audio recording dataset collected around W
 
 ## MATLAB Programs
 ### ENF Detection
-1. Clairvoyant detectors: Neyman-Pearson (NP) detectors assuming perfect knowledge of the ENF.
+**1. Clairvoyant detectors: Neyman-Pearson (NP) detectors assuming perfect knowledge of the ENF.**
 	1. Generalized matched filter (GMF): a standard NP detector.
 	2. Matched filter (MF)-like approximation: avoid the requirement of unknown noise covariance matrix.
 	3. Asymptotic approximation: trade-off between computational complexity and detection performance.
 
-2. Generalized likelihood ratio test (GLRT) detectors: ENF assumed unknown and deterministic.
+**2. Generalized likelihood ratio test (GLRT) detectors: ENF assumed unknown and deterministic.**
 	1. Least-squares (LS)-LRT: MF-like with unknown parameters replaced by the maximum likelihood estimations (MLEs).
 	2. naive-LRT: MF-like with the unknown frequencies replaces by the nominal value (50 Hz or harmonics).
 
-3. Time-frequency (TF) domain detector
+**3. Time-frequency (TF) domain detector**
 	- Frame-based processing
 	- Test statistic is the sample variance of the strongest time-frequency line (e.g., STFT + peak)
 	- Exploiting slow-varying nature of ENF, thus test statistic is large under H0 and small undder H1. 
