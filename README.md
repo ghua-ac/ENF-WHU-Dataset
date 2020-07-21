@@ -24,8 +24,11 @@ This GitHub link contains the ENF-WHU audio recording dataset collected around W
 
 - **Other Related Works:**
  > \[3] G. Hua, “Error analysis of electric network frequency matching,” in Proc. 2018 IEEE International Workshop on Information Forensics and Security (WIFS), pp.1-7, Hong Kong, Dec. 2018.
+ 
  > \[4] G. Hua, G. Bi, and V. L. L. Thing, “On practical issues of electric network frequency based audio forensics,” IEEE Access, vol. 5, pp. 20640-20651, Oct. 2017.
+ 
  > \[5] G. Hua, Y. Zhang, J. Goh, and V. L. L. Thing, “Audio authentication by exploring the absolute	error map of the ENF signals,” IEEE Trans. Inf. Forensics Security, vol. 11, no. 5, pp. 1003-1016, May 2016.
+ 
  > \[6] G. Hua, J. Goh, and V. L. L. Thing, “A dynamic matching algorithm for audio timestamp identification using the ENF criterion,” IEEE Transactions on Information Forensics and Security, vol. 9, no. 7, pp. 1045-1055, Jul. 2014. 
 
 ## MATLAB Programs
