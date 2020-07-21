@@ -9,5 +9,7 @@ This GitHub link contains the ENF-WHU audio recording dataset collected around W
 - **Quantization depth:** 16-bit
 - **Channel:** mono
 - **Sampling frequencuy:** 8000 Hz
+- **Category:**
+  - H0: 10 recordings without captured ENF. 
 
 
