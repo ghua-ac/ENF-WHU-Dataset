@@ -22,11 +22,11 @@ This GitHub link contains the ENF-WHU audio recording dataset collected around W
   1. Generalized matched filter (GMF): a standard NP detector.
   2. Matched filter (MF)-like approximation: avoid the requirement of unknown noise covariance matrix.
   3. Asymptotic approximation: trade-off between computational complexity and detection performance.
- 
+---
 2. Generalized likelihood ratio test (GLRT) detectors: ENF assumed unknown and deterministic.
   1. Least-squares (LS)-LRT: MF-like with unknown parameters replaced by the maximum likelihood estimations (MLEs).
   2. naive-LRT: MF-like with the unknown frequencies replaces by the nominal value (50 Hz or harmonics).
-
+---
 3. Time-frequency (TF) domain detector (proposed)
     - Frame-based processing
     - Test statistic is the sample variance of the strongest time-frequency line (e.g., STFT + peak)
