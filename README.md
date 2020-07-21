@@ -20,16 +20,16 @@ This GitHub link contains the ENF-WHU audio recording dataset collected around W
 - **ENF Detection:**
  > \[1] G. Hua, H. Liao, Q. Wang, H. Zhang, and D. Ye, "Detection of electric network frequency in audio recordings – From theory to practical detectors," IEEE Trans. Inf. Forensics Security, DOI: 10.1109/TIFS.2020.3009579, 2020.
 - **ENF Enhancement:**
- > \[2] G. Hua and H. Zhang, "ENF signal enhancement in audio recordings,"``'' IEEE Trans. Inf. Forensics Security, vol. 15, pp. 1868-1878, 2020.
+ > \[2] G. Hua and H. Zhang, "ENF signal enhancement in audio recordings," IEEE Trans. Inf. Forensics Security, vol. 15, pp. 1868-1878, 2020.
 
 - **Other Related Works:**
- > \[3] G. Hua, “Error analysis of electric network frequency matching,” in Proc. 2018 IEEE International Workshop on Information Forensics and Security (WIFS), pp.1-7, Hong Kong, Dec. 2018.
+ > \[3] G. Hua, "Error analysis of electric network frequency matching," in Proc. 2018 IEEE International Workshop on Information Forensics and Security (WIFS), pp. 1-7, Hong Kong, Dec. 2018.
  
- > \[4] G. Hua, G. Bi, and V. L. L. Thing, “On practical issues of electric network frequency based audio forensics,” IEEE Access, vol. 5, pp. 20640-20651, Oct. 2017.
+ > \[4] G. Hua, G. Bi, and V. L. L. Thing, "On practical issues of electric network frequency based audio forensics," IEEE Access, vol. 5, pp. 20640-20651, Oct. 2017.
  
- > \[5] G. Hua, Y. Zhang, J. Goh, and V. L. L. Thing, “Audio authentication by exploring the absolute	error map of the ENF signals,” IEEE Trans. Inf. Forensics Security, vol. 11, no. 5, pp. 1003-1016, May 2016.
+ > \[5] G. Hua, Y. Zhang, J. Goh, and V. L. L. Thing, "Audio authentication by exploring the absolute	error map of the ENF signals," IEEE Trans. Inf. Forensics Security, vol. 11, no. 5, pp. 1003-1016, May 2016.
  
- > \[6] G. Hua, J. Goh, and V. L. L. Thing, “A dynamic matching algorithm for audio timestamp identification using the ENF criterion,” IEEE Transactions on Information Forensics and Security, vol. 9, no. 7, pp. 1045-1055, Jul. 2014. 
+ > \[6] G. Hua, J. Goh, and V. L. L. Thing, “A dynamic matching algorithm for audio timestamp identification using the ENF criterion,” IEEE Trans. Inf. Forensics Security, vol. 9, no. 7, pp. 1045-1055, Jul. 2014. 
 
 ## MATLAB Programs
 - ENF Detection
