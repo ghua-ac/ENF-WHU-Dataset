@@ -27,10 +27,10 @@ This GitHub link contains the ENF-WHU audio recording dataset collected around W
 	1. Least-squares (LS)-LRT: MF-like with unknown parameters replaced by the maximum likelihood estimations (MLEs).
 	2. naive-LRT: MF-like with the unknown frequencies replaces by the nominal value (50 Hz or harmonics).
 
-3. Time-frequency (TF) domain detector (proposed)
+3. Time-frequency (TF) domain detector
 	- Frame-based processing
 	- Test statistic is the sample variance of the strongest time-frequency line (e.g., STFT + peak)
-	- $$H_0$$
+	- Leveraging the slow-varying nature of the ENF, test statistic is large under null hypothesis H0 and small under alternative hypothesis H1. 
 
 
 ### ENF Enhancement
