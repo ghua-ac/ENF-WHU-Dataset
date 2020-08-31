@@ -11,7 +11,7 @@ This package contains the MATLAB program for electric network frequency detectio
 	2. naive-LRT: MF-like with the unknown IFs replaced by nominal value.
 - TF domain detector: ENF assumed unknown and random.
 	- Test statistic is the sample variance of the strongest time-frequency line (e.g., STFT + peak)
-	- Exploiting slow-varying nature of ENF, thus test statistic is large under H0 and small undder H1. 
+	- Exploiting slow-varying nature of ENF, thus test statistic is large under H0 and small under H1. 
 
 ## Citation Info:
   > \[1] G. Hua, H. Liao, Q. Wang, H. Zhang, and D. Ye, "Detection of electric network frequency in audio recordings – From theory to practical detectors," IEEE Trans. Inf. Forensics Security, DOI: 10.1109/TIFS.2020.3009579, 2020. [link](https://ieeexplore.ieee.org/document/9143185)
