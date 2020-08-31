@@ -27,7 +27,7 @@ This GitHub link contains the ENF-WHU audio recording dataset collected around W
 	2. naive-LRT: MF-like with the unknown IFs replaced by nominal value.
 - TF domain detector: ENF assumed unknown and random.
 	- Test statistic is the sample variance of the strongest time-frequency line (e.g., STFT + peak)
-	- Exploiting slow-varying nature of ENF, thus test statistic is large under H0 and small undder H1. 
+	- Exploiting slow-varying nature of ENF, thus test statistic is large under H0 and small under H1. 
 
 ### ENF Enhancement
 
