@@ -10,7 +10,7 @@ This GitHub link contains the ENF-WHU audio recording dataset collected around W
 - **Format:** PCM WAVE
 - **Quantization depth:** 16-bit
 - **Channel:** mono
-- **Sampling frequencuy:** 8000 Hz
+- **Sampling frequencuy:** 8000 Hz (400 Hz for reference data)
 - **Category:**<br>
   **H1:** "001\~130.wav" 130 real-world recordings with captured (noisy) ENF.<br>
   **H1_ref:** "001_ref\~130_ref.wav" the corresponding 130 reference ENF (noise-free) obtained from power main.<br>
