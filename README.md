@@ -37,7 +37,7 @@ To be released...
 - **ENF Detection:**
  > \[1] G. Hua, H. Liao, Q. Wang, H. Zhang, and D. Ye, "Detection of electric network frequency in audio recordings – From theory to practical detectors," IEEE Trans. Inf. Forensics Security, vol. 16, pp. 236–248, 2021. [link](https://ieeexplore.ieee.org/document/9143185)
 - **ENF Enhancement:**
- > \[2] G. Hua, H. Liao, H. Zhang, D. Ye, and J. Ma, "Robust ENF estimation based on harmonic enhancement and maximum weight clique," IEEE Trans. Inf. Forensics Security, DOI: 10.1109/TIFS.2021.3099697, 2021. [link](https://ieeexplore.ieee.org/document/9494518)
+ > \[2] G. Hua, H. Liao, H. Zhang, D. Ye, and J. Ma, "Robust ENF estimation based on harmonic enhancement and maximum weight clique," IEEE Trans. Inf. Forensics Security, DOI: 10.1109/TIFS.2021.3099697, 2021. [link](https://ieeexplore.ieee.org/document/9494518)<br>
  > \[3] G. Hua and H. Zhang, "ENF signal enhancement in audio recordings," IEEE Trans. Inf. Forensics Security, vol. 15, pp. 1868-1878, 2020. [link](https://ieeexplore.ieee.org/document/8894138)
 - **Related Works:**
  > \[4] G. Hua, "Error analysis of forensic ENF matching," in Proc. 2018 IEEE International Workshop on Information Forensics and Security (WIFS), pp. 1-7, Hong Kong, Dec. 2018. [link](https://ieeexplore.ieee.org/document/8630786)<br>
