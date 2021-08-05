@@ -14,8 +14,9 @@ This repo contains the ENF-WHU audio recording dataset collected around Wuhan Un
 - **Category:**<br>
   **H1:** "001\~130.wav" 130 real-world recordings with captured (noisy) ENF.<br>
   **H1_ref:** "001_ref\~130_ref.wav" the corresponding 130 reference ENF (noise-free) obtained from power main.<br>
-  **H0:** "O01\~O10.wav" 10 real-world recordings without captured ENF. "01\~40.wav" 40 segments under H0 obtained by random cropping the 10 recordings.<br>
-  **H1_ref_one_day:** the corresponding one-day (24 hours) reference ENF for the 130 recordings. "003-004_ref.wav" means "003.wav" and "004.wav" in **H1** are recorded within the same day.
+  **H1_ref_one_day:** the corresponding one-day (24 hours) reference ENF for the 130 recordings. "003-004_ref.wav" means "003.wav" and "004.wav" in **H1** are recorded within the same day.<br>
+  **H0:** "O01\~O10.wav" 10 real-world recordings without captured ENF. "01\~40.wav" 40 segments under H0 obtained by random cropping the 10 recordings.
+  
 
 ## MATLAB Programs
 ### ENF Detection
