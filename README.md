@@ -15,6 +15,7 @@ This repo contains the ENF-WHU audio recording dataset collected around Wuhan Un
   **H1:** "001\~130.wav" 130 real-world recordings with captured (noisy) ENF.<br>
   **H1_ref:** "001_ref\~130_ref.wav" the corresponding 130 reference ENF (noise-free) obtained from power main.<br>
   **H0:** "O01\~O10.wav" 10 real-world recordings without captured ENF. "01\~40.wav" 40 segments under H0 obtained by random cropping the 10 recordings.
+  **H1_ref_one_day:** the corresponding one-day (24 hours) reference ENF for the 130 recordings. "003-004_ref.wav" means "003.wav" and "004.wav" in **H1** are recorded within the same day.
 
 ## MATLAB Programs
 ### ENF Detection
@@ -29,9 +30,13 @@ This repo contains the ENF-WHU audio recording dataset collected around Wuhan Un
 	- Test statistic is the sample variance of the strongest time-frequency line (e.g., STFT + peak)
 	- Exploiting slow-varying nature of ENF, thus test statistic is large under H0 and small under H1. 
 
-### ENF Enhancement
+### ENF Enhancement and Estimation
 
-To be released...
+- Single-tone model based ENF enhancement method [3].
+- Multi-tone harmonic model based enhancement and harmonic selection for robust ENF estimation [2].
+- Adaptive multi-trace carving (AMTC) method by [Q. Zhu <em>et al.</em> 2021 IEEE TIFS](https://ieeexplore.ieee.org/document/9220114).
+- Multi-tone maximum likelihood estimator (MLE) by [Bykhovsky and Cohen <em>et al.</em> 2013 IEEE TIFS](https://ieeexplore.ieee.org/document/6482617).
+- Multi-tone weighted maximum likelihood estimator (WMLE) by [Hajj-Ahmad <em>et al.</em> 2013 IEEE SPL](https://ieeexplore.ieee.org/document/6557080).
 
 ## Citation Information
 - **ENF Detection:**
