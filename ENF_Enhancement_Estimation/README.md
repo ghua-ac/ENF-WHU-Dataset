@@ -17,6 +17,7 @@ evaluated using both synthetic data and the real-world recordings from the ENF-W
 The MATLAB implementation of Bron-Kerbosch algorithm for maximal clique detection
  > func_BK_MaxClique.m<br>
  > func_BK_MaxIS.m<br>
+
 is incorporated from the work of [Berk Birand](https://kr.mathworks.com/matlabcentral/fileexchange/24591-bron-kerbosch-maximal-independent-set-and-maximal-clique-algorithms)<br>
 
  > func_BPF.p
