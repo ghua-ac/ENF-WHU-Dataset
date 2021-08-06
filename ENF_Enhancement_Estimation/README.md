@@ -44,7 +44,7 @@ are implementations the MLE [Bykhovsky and Cohen 2013 IEEE TIFS](https://ieeexpl
  is the implementation of single-tone MLE.
  > func_empirical_coeff_thre.m
 
-calculates the empirical threshold $\eta$<sub>R</sub> in (20) of [1].
+calculates the empirical threshold &\eta;<sub>R</sub> in (20) of [1].
 
 ### Citation Info:
  > \[1] G. Hua, H. Liao, H. Zhang, D. Ye, and J. Ma, "Robust ENF estimation based on harmonic enhancement and maximum weight clique," IEEE Trans. Inf. Forensics Security, DOI: 10.1109/TIFS.2021.3099697, 2021. [link](https://ieeexplore.ieee.org/document/9494518)<br>
