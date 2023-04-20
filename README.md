@@ -2,6 +2,9 @@
 
 This repo contains the ENF-WHU audio recording dataset collected around Wuhan University campus and the MATLAB programs for electronic network frequency (ENF) detection, enhancement, and robust estimation, in ENF-based audio forensic applications.
 
+# Note about the Ground-Truth  (April 2023)
+The ground-truth matched location (the lag that corresponding to the true timestamp) within the one day reference can be obtained by matching the noise-free ref files with the corresponding one day ref. For example, we can match "003_ref.wav" in "H1_ref" folder within "003-004_ref.wav" in "H1_ref_one_day" folder, and the matched lag index is the "ground truth" timestamp for recording "003.wav" in "H1" folder, meaning that "003.wav" should be matched at the same or a very close lag index in "003-004_ref.wav". Both MSE and CC can be used for the matching criterion as long as the recording and ref are matched using the same criterion.
+
 ## ENF-WHU Dataset
 - **Recording location:** classroom, campus path, meeting room, graduate student office, dormitory, library.
 - **Environment diversity:** day/night, rainy/suny, interior/exterior.
